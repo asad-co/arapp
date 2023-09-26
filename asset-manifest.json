@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/arapp/static/css/main.b27d2d0a.css",
+    "main.js": "/arapp/static/js/main.571e8929.js",
+    "static/js/787.df895df2.chunk.js": "/arapp/static/js/787.df895df2.chunk.js",
+    "static/media/logo.svg": "/arapp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/arapp/index.html",
+    "main.b27d2d0a.css.map": "/arapp/static/css/main.b27d2d0a.css.map",
+    "main.571e8929.js.map": "/arapp/static/js/main.571e8929.js.map",
+    "787.df895df2.chunk.js.map": "/arapp/static/js/787.df895df2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b27d2d0a.css",
+    "static/js/main.571e8929.js"
+  ]
+}
